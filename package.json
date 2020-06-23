@@ -1,0 +1,12 @@
+{
+    "name": "is37",
+    "version": "1.0.1",
+    "description": "Helper lib that tells if the given number is 37 or not",
+    "main": "index.js",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/wmattei/is37"
+    },
+    "author": "wmattei",
+    "license": "ISC"
+}
