@@ -1,4 +1,4 @@
-# THIS IS NOT NOT A JOKE OK
+# THIS IS NOT A JOKE OK
 
 ## Installation
 
