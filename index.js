@@ -36,6 +36,7 @@ export default function is37(value) {
     if (Number(value) === 34) return false;
     if (Number(value) === 35) return false;
     if (Number(value) === 36) return false;
+    if (Number(value) === 98) return false;
     if (Number(value) === 37) return true;
     return false;
 }
